@@ -1,6 +1,6 @@
 # ML-Project
 
-This project aims to analyse historical economic growth trends using the German Credit Data dataset. This assessment aims to help you gain hands-on experience by developing and applying appropriate
+This project aims to analyse historical economic growth trends using the German Credit Data dataset. This assessment aims to help gain hands-on experience by developing and applying appropriate
 machine learning models to help resolve ML for good problems by:
 
   ● Applying the appropriate machine learning methods for the respective problem statement.
